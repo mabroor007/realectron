@@ -1,9 +1,0 @@
-{
-  "name": "realectron",
-  "version": "1.0.0",
-  "description": "Application template for desktop apps with electron and react",
-  "main": "index.js",
-  "repository": "https://github.com/mabroor007/realectron.git",
-  "author": "mabroor007 <amabroor007@gmail.com>",
-  "license": "MIT"
-}
